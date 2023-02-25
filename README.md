@@ -1,4 +1,4 @@
-# Hello, worl! 
+# Hello, world! 
 
  I study in Netology
 
